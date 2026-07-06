@@ -1,1 +1,1 @@
-higrise-bot-sdk==23.1.1b0
+higrise-bot-sdk==24.1.2
